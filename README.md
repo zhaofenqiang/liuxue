@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Disruptive Technologies
+
+I am testing the use of GitHub pages
 
 You can use the [editor on GitHub](https://github.com/imcrisanto/mms142/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +13,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Video Streaming Services
+## History 
+### Countries
 
 - Bulleted
 - List
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://assets.nflxext.com/ffe/siteui/allow-robots/contentSampling/seo-watch-free-link-preview.jpg) and ![Image](https://assets.nflxext.com/ffe/siteui/allow-robots/contentSampling/seo-watch-free-link-preview.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
