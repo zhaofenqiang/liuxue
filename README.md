@@ -1,14 +1,6 @@
----
-youtubeId: gEwRiczAYcw
----
 
 
 ## Testing -M.G.
-
-## Video Testing -M.G.
-
-{% include youtubePlayer.html id=page. %}
-
 ## Disruptive Technologies
 
 I am testing the use of GitHub pages
