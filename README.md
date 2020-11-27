@@ -1,4 +1,8 @@
+---
+youtubeId: gEwRiczAYcw
+---
 
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ## Testing -M.G.
 ## Disruptive Technologies
