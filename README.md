@@ -1,7 +1,12 @@
+---
+youtubeId: gEwRiczAYcw
+---
+
 
 ## Testing -M.G.
 
-![Testing](https://youtu.be/gEwRiczAYcw)
+## Video Testing -M.G.
+{% include youtubePlayer.html id=page. %}
 ## Disruptive Technologies
 
 I am testing the use of GitHub pages
