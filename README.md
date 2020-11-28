@@ -1,8 +1,8 @@
 ---
-youtubeId: gEwRiczAYcw
+youtubeId: putYourIDHere
 ---
-## Video Testing
 
+## Embed Youtube
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ## Testing -M.G.
