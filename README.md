@@ -1,10 +1,6 @@
----
-youtubeId: VLE6Y1q13qE
----
-
 ## Testing -M.G.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html %}
 
 ## Disruptive Technologies
 
