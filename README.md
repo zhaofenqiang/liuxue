@@ -1,6 +1,19 @@
-## Testing -M.G.
+---
+youtubeId: VLE6Y1q13qE
+vimeoId: putYourIDHere
+twitchId: putYourIDHere
+streamableId: putYourIDHere
+mixerId: putYourIDHere
+driveId: putYourIDHere
+detikId: putYourIDHere
+dailymotionId: putYourIDHere
+metubeId: putYourIDHere
+vidioId: putYourIDHere
+linetodayId: putYourIDHere
+countryId: putYourIDHere
+---
 
-youtubeID: lDi9uFcD7XI
+## Testing -M.G.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
