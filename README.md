@@ -1,7 +1,3 @@
----
-youtubeId: putYourIDHere
----
-
 ## Testing -M.G.
 
 youtubeID: lDi9uFcD7XI
