@@ -1,17 +1,4 @@
----
 youtubeId: VLE6Y1q13qE
-vimeoId: putYourIDHere
-twitchId: putYourIDHere
-streamableId: putYourIDHere
-mixerId: putYourIDHere
-driveId: putYourIDHere
-detikId: putYourIDHere
-dailymotionId: putYourIDHere
-metubeId: putYourIDHere
-vidioId: putYourIDHere
-linetodayId: putYourIDHere
-countryId: putYourIDHere
----
 
 ## Testing -M.G.
 
