@@ -1,3 +1,8 @@
+---
+youtubeId: putYourIDHere
+countryId: putYourIDHere
+---
+
 youtubeId: VLE6Y1q13qE
 
 ## Testing -M.G.
