@@ -1,10 +1,3 @@
----
-youtubeId: gEwRiczAYcw&ab
----
-
-## Embed Youtube
-{% include youtubePlayer.html id=page.youtubeId %}
-
 ## Testing -M.G.
 ## Disruptive Technologies
 
