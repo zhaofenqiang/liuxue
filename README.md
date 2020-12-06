@@ -139,10 +139,10 @@ Netflix and Amazon Prime Video are some popular examples of the subscription-VoD
 * Subscription projections for the year 2025 see new players rising as well. Apple TV+ is expected to rack up over 27 million global subscribers, while HBO Max could amass over 27 million.
 
 References:
-Guitton, J. (2015, October 21). Netflix Case Study. Slideshare. https://www.slideshare.net/JulienGuitton/netflix-case-study-54240175
-Gvozdev, E. (2013, December 17). Netflix Business Model & Strategy. Slideshare. https://www.slideshare.net/egvozdev/netflix-business-model-strategy
-Laudon, K., & Traver, C. (2018). E-Commerce 2018: Business, Technology, Society (14th ed.). Pearson.
-Statista. (2020). Video Streaming (SVoD) - worldwide | Statista Market Forecast. https://www.statista.com/outlook/206/100/video-streaming--svod-/worldwide
+* Guitton, J. (2015, October 21). Netflix Case Study. Slideshare. https://www.slideshare.net/JulienGuitton/netflix-case-study-54240175
+* Gvozdev, E. (2013, December 17). Netflix Business Model & Strategy. Slideshare. https://www.slideshare.net/egvozdev/netflix-business-model-strategy
+* Laudon, K., & Traver, C. (2018). E-Commerce 2018: Business, Technology, Society (14th ed.). Pearson.
+* Statista. (2020). Video Streaming (SVoD) - worldwide | Statista Market Forecast. https://www.statista.com/outlook/206/100/video-streaming--svod-/worldwide
 
 
 ## The Future of Video Streaming
