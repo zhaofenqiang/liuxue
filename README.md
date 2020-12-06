@@ -113,8 +113,10 @@ Online TV and movies loom to be the largest and fastest growing form of online e
 
 a. Subscription
 Opting for quality and convenience, many consumers have increasingly opted to purchase premium content. This revenue model offers a type of "all you can eat" flexibility for consumption.
+
 b. A La Carte
 Essentially a "pick-and-pay" pricing model, customers pay for individual shows in a selection menu. This enables consumers to have a more customized experience based on content preferences and spending capacity.
+
 c. Advertising-supported
 This model depends on advertising revenue to provide free content. Alongside is  usually a "freemium" option for purchase. Contrary to some claims, free content can actually even lure customers to paid content, as evidenced by the success of the likes of Pandora and Spotify.
 
@@ -124,7 +126,9 @@ Video-on-Demand services allow customers to decide when and where they want to w
 
 Video-on-Demand (VoD) content distributed over the Internet includes three fee-based business models: 
 a. Transactional VoD (TVoD) - This consists of rentals as a single transaction or pay-per-view. 
+
 b. Subscription VoD (SVoD) - This represents rentals as subscription-based services.
+
 c. Electronic-Sell-Through (EST) - This encompasses purchased downloads or cloud storage. 
 
 Netflix and Amazon Prime Video are some popular examples of the subscription-VoD or SVoD model. For a monthly subscription fee, consumers can access movies and TV series which are streamed to a variety of supported devices. 
@@ -138,7 +142,7 @@ Netflix and Amazon Prime Video are some popular examples of the subscription-VoD
 * The number of global users/subscribers is expected to amount to 1,337.1m by 2025.
 * Subscription projections for the year 2025 see new players rising as well. Apple TV+ is expected to rack up over 27 million global subscribers, while HBO Max could amass over 27 million.
 
-References:
+### References:
 * Guitton, J. (2015, October 21). Netflix Case Study. Slideshare. https://www.slideshare.net/JulienGuitton/netflix-case-study-54240175
 * Gvozdev, E. (2013, December 17). Netflix Business Model & Strategy. Slideshare. https://www.slideshare.net/egvozdev/netflix-business-model-strategy
 * Laudon, K., & Traver, C. (2018). E-Commerce 2018: Business, Technology, Society (14th ed.). Pearson.
