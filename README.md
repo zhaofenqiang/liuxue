@@ -122,9 +122,8 @@ This model depends on advertising revenue to provide free content. Alongside is 
 
 ### Video-on-Demand fee-based business models
 
-Video-on-Demand services allow customers to decide when and where they want to watch movies or TV series. The worldwide revenue of US$53.0 billion in 2019 is expected to grow to US$96.0 billion in 2025
+Video-on-Demand services allow customers to decide when and where they want to watch movies or TV series. The worldwide revenue of US$53.0 billion in 2019 is expected to grow to US$96.0 billion in 2025. Video-on-Demand (VoD) content distributed over the Internet includes three fee-based business models: 
 
-Video-on-Demand (VoD) content distributed over the Internet includes three fee-based business models: 
 a. Transactional VoD (TVoD) - This consists of rentals as a single transaction or pay-per-view. 
 
 b. Subscription VoD (SVoD) - This represents rentals as subscription-based services.
