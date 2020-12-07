@@ -1,7 +1,7 @@
 ---
 title: Business Model
 layout: template
-filename: business.md
+filename: mms142/business.md
 --- 
 
 ## Business Models for Video Streaming Services
