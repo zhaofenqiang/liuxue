@@ -1,7 +1,7 @@
 ---
 title: Impact
 layout: template
-filename: impact.md
+filename: impact
 --- 
 
 ## Impact to the Disruptees
