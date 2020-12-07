@@ -1,5 +1,5 @@
 ---
-youtubeID: jNQXAC9IVRw
+youtubeID: 3VTkBuxU4yk
 title: History
 layout: template
 filename: history
@@ -33,7 +33,6 @@ to the public. As a result, streaming has now become a part of our everyday live
 ### YouTube
 {% include youtubePlayer.html id=page.youtubeId %}
 *Me at the Zoo was the first video ever uploaded to Youtube way back in April 23, 2005*
-
 
 In February 2005, Chad Hurley registered the trademark, logo, and domain of YouTube and launched to a small subset of users. By December 2005, YouTube was made available to the public and was hitting 8M views per day. By 2006, the website was acquired by Google for $1.6B, and today, it has 2 billion active users with 720,000 hours of video uploaded daily. 
 
