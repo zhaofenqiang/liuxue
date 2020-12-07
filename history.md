@@ -4,9 +4,8 @@ layout: template
 filename: history
 --- 
 
-## Introduction 
-Today, if we want to watch a music video of a hit song, we do not download it; instead, we load the video on YouTube. Through streaming, 
-we could avoid the hassle of downloading files, thus saving time, effort, and tons of data. But how did this technology start?
+# Introduction 
+Today, if we want to watch a music video of a hit song, we do not download it; instead, we load the video on YouTube. Through streaming, we could avoid the hassle of downloading files, thus saving time, effort, and tons of data. But how did this technology start?
 
 ### Radio 
 It all started with radiotelegraphy or the transmission of signals through radio waves. In 1986, Guglielmo Marconi obtained a patent for his invention 
@@ -31,37 +30,44 @@ to the public. As a result, streaming has now become a part of our everyday live
 ## The Birth of Video Streaming 
 
 ### YouTube
-In February 2005, Chad Hurley registered the trademark, logo, and domain of YouTube and launched to a small subset of users. By December 2005, YouTube was made available 
-to the public and was hitting 8M views per day. By 2006, the website was acquired by Google for $1.6B, and today, it has 2 billion active users with 720,000 hours of video 
-uploaded daily. 
+In February 2005, Chad Hurley registered the trademark, logo, and domain of YouTube and launched to a small subset of users. By December 2005, YouTube was made available to the public and was hitting 8M views per day. By 2006, the website was acquired by Google for $1.6B, and today, it has 2 billion active users with 720,000 hours of video uploaded daily. 
 
 ### Netflix 
-It was founded in 1997 by Reed Hastings and Marc Randolph. Netflix began offering subscription services in 1999, where consumers can choose movies and shows through their website, 
-which would then arrive in the form of DVDs at their own homes. However, by this time, TV was still the crowd-favorite, which caused Netflix to gain a small number of subscribers.
-In 2007, Netflix launched its online unlimited streaming service, and by 2010, it discontinued the delivery of DVDs. In 2016, Netflix expanded its coverage in more than 190 countries, 
-and today, there are around 195.5M subscribers worldwide. 
+It was founded in 1997 by Reed Hastings and Marc Randolph. Netflix began offering subscription services in 1999, where consumers can choose movies and shows through their website, which would then arrive in the form of DVDs at their own homes. However, by this time, TV was still the crowd-favorite, which caused Netflix to gain a small number of subscribers. In 2007, Netflix launched its online unlimited streaming service, and by 2010, it discontinued the delivery of DVDs. In 2016, Netflix expanded its coverage in more than 190 countries, and today, there are around 195.5M subscribers worldwide. 
 
 ### iWant TFC 
-Launched in 2010, iWant TFC, formerly iWant and iWant TV, is a local streaming platform operated by ABS-CBN. Through subscription, premium users could stream original films and series, 
-as well as content from ABS-CBN’s broadcast properties. 
+Launched in 2010, iWant TFC, formerly iWant and iWant TV, is a local streaming platform operated by ABS-CBN. Through subscription, premium users could stream original films and series, as well as content from ABS-CBN’s broadcast properties. 
 
 ### iFlix 
-Funded by an international investment firm, Catcha Group, and Philippine Long Distance Telephone Company, iFlix launched in the Philippines in May 2015. In July of the same year, 
-the platform gained over 100,000 subscribers in Southeast Asia, becoming Asia’s fastest-growing Internet service.
+Funded by an international investment firm, Catcha Group, and Philippine Long Distance Telephone Company, iFlix launched in the Philippines in May 2015. In July of the same year, the platform gained over 100,000 subscribers in Southeast Asia, becoming Asia’s fastest-growing Internet service.
 
-## References  
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-Wikipedia contributors. (2020, November 27). Streaming media. Wikipedia. https://en.wikipedia.org/wiki/Streaming_media#:%7E:text=%22Streaming%22%20was%20applied%20in%20the,Real%20Networks%20for%20audio%20streaming.
-Tech Wholesale. (n.d.). History of the Radio: A Complete Radio Timeline. Techwholesale.Com. https://www.techwholesale.com/history-of-the-radio.html 
-Mobile Geeks. (2020, January 29). History of Video Streaming. https://www.mobilegeeks.com/article/history-of-video-streaming/ 
-Hosch, W. L. (2020, November 9). Netflix | Founders, History, Programming, & Facts. Encyclopedia Britannica. https://www.britannica.com/topic/Netflix-Inc 
-Wikipedia contributors. (2020b, November 29). Wireless telegraphy. Wikipedia. https://en.wikipedia.org/wiki/Wireless_telegraphy#:%7E:text=Wireless%20telegraphy%20or%20radiotelegraphy%20is,and%20ground%20conduction%20telegraph%20systems. 
-Lallanilla, M. (2014, May 15). The Science of World War I: Communications. Livescience.Com. https://www.livescience.com/45641-science-of-world-war-i-communications.html#:%7E:text=Wartime%20radio&text=The%20%22wireless%22%20(as%20early,to%20don%20their%20gas%20masks.
-Ordinary Things. (2019, June 26). What is Muzak? (Elevator Music) [Video]. YouTube. https://www.youtube.com/watch?v=47mYs1SGBq4 
+***
+
+## Sources 
+1. Wikipedia contributors. (2020, November 27). Streaming media. Wikipedia. https://en.wikipedia.org/wiki/Streaming_media#:%7E:text=%22Streaming%22%20was%20applied%20in%20the,Real%20Networks%20for%20audio%20streaming.
+
+2. Tech Wholesale. (n.d.). History of the Radio: A Complete Radio Timeline. Techwholesale.Com. https://www.techwholesale.com/history-of-the-radio.html 
+Mobile Geeks. (2020, January 29). 
+
+3. History of Video Streaming. https://www.mobilegeeks.com/article/history-of-video-streaming/ 
+Hosch, W. L. (2020, November 9). 
+
+4. Netflix | Founders, History, Programming, & Facts. Encyclopedia Britannica. https://www.britannica.com/topic/Netflix-Inc 
+
+5. Wikipedia contributors. (2020, November 29). Wireless telegraphy. Wikipedia. https://en.wikipedia.org/wiki/Wireless_telegraphy#:%7E:text=Wireless%20telegraphy%20or%20radiotelegraphy%20is,and%20ground%20conduction%20telegraph%20systems. 
+
+6. Lallanilla, M. (2014, May 15). 
+The Science of World War I: Communications. Livescience.Com. https://www.livescience.com/45641-science-of-world-war-i-communications.html#:%7E:text=Wartime%20radio&text=The%20%22wireless%22%20(as%20early,to%20don%20their%20gas%20masks.
+Ordinary Things. (2019, June 26). 
+
+7. What is Muzak? (Elevator Music) [Video]. YouTube. https://www.youtube.com/watch?v=47mYs1SGBq4 
 Mohsin, M. (2020, November 19). 10 Youtube Statistics That You Need to Know in 2020. Oberlo. https://www.oberlo.com.ph/blog/youtube-statistics#:%7E:text=Here’s%20a%20summary%20of%20the,have%20their%20own%20YouTube%20account. 
 Infoplease. (2017, January 24). Transmission and reception of radio waves. https://www.infoplease.com/encyclopedia/science/engineering/electrical/radio/transmission-and-reception-of-radio-waves 
-Wikipedia contributors. (2020a, October 10). Iflix. Wikipedia. https://en.wikipedia.org/wiki/Iflix
-Wikipedia contributors. (2020d, December 3). IWantTFC. Wikipedia. https://en.wikipedia.org/wiki/IWantTFC 
-PACE Technical Services Inc. (n.d.). A Brief History of Streaming Media. Www.Pacetechnical.Com. https://www.pacetechnical.com/brief-history-streaming-media/  
 
--m
+8. Wikipedia contributors. (2020a, October 10). Iflix. Wikipedia. https://en.wikipedia.org/wiki/Iflix
+
+9. Wikipedia contributors. (2020d, December 3). IWantTFC. Wikipedia. https://en.wikipedia.org/wiki/IWantTFC 
+
+10. PACE Technical Services Inc. (n.d.). A Brief History of Streaming Media. Www.Pacetechnical.Com. https://www.pacetechnical.com/brief-history-streaming-media/ 
