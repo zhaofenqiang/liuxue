@@ -1,5 +1,5 @@
 ---
-youtubeID: jNQXAC9IVRw&vl
+youtubeID: jNQXAC9IVRw
 title: History
 layout: template
 filename: history
@@ -31,10 +31,11 @@ to the public. As a result, streaming has now become a part of our everyday live
 ## The Birth of Video Streaming 
 
 ### YouTube
-In February 2005, Chad Hurley registered the trademark, logo, and domain of YouTube and launched to a small subset of users. By December 2005, YouTube was made available to the public and was hitting 8M views per day. By 2006, the website was acquired by Google for $1.6B, and today, it has 2 billion active users with 720,000 hours of video uploaded daily. 
-
 {% include youtubePlayer.html id=page.youtubeId %}
 *Me at the Zoo was the first video ever uploaded to Youtube way back in April 23, 2005*
+
+
+In February 2005, Chad Hurley registered the trademark, logo, and domain of YouTube and launched to a small subset of users. By December 2005, YouTube was made available to the public and was hitting 8M views per day. By 2006, the website was acquired by Google for $1.6B, and today, it has 2 billion active users with 720,000 hours of video uploaded daily. 
 
 ### Netflix 
 It was founded in 1997 by Reed Hastings and Marc Randolph. Netflix began offering subscription services in 1999, where consumers can choose movies and shows through their website, which would then arrive in the form of DVDs at their own homes. However, by this time, TV was still the crowd-favorite, which caused Netflix to gain a small number of subscribers. In 2007, Netflix launched its online unlimited streaming service, and by 2010, it discontinued the delivery of DVDs. In 2016, Netflix expanded its coverage in more than 190 countries, and today, there are around 195.5M subscribers worldwide. 
