@@ -1,4 +1,5 @@
 ---
+youtubeID: jNQXAC9IVRw&vl
 title: History
 layout: template
 filename: history
@@ -32,6 +33,9 @@ to the public. As a result, streaming has now become a part of our everyday live
 ### YouTube
 In February 2005, Chad Hurley registered the trademark, logo, and domain of YouTube and launched to a small subset of users. By December 2005, YouTube was made available to the public and was hitting 8M views per day. By 2006, the website was acquired by Google for $1.6B, and today, it has 2 billion active users with 720,000 hours of video uploaded daily. 
 
+{% include youtubePlayer.html id=page.youtubeId %}
+*Me at the Zoo was the first video ever uploaded to Youtube way back in April 23, 2005*
+
 ### Netflix 
 It was founded in 1997 by Reed Hastings and Marc Randolph. Netflix began offering subscription services in 1999, where consumers can choose movies and shows through their website, which would then arrive in the form of DVDs at their own homes. However, by this time, TV was still the crowd-favorite, which caused Netflix to gain a small number of subscribers. In 2007, Netflix launched its online unlimited streaming service, and by 2010, it discontinued the delivery of DVDs. In 2016, Netflix expanded its coverage in more than 190 countries, and today, there are around 195.5M subscribers worldwide. 
 
@@ -40,8 +44,6 @@ Launched in 2010, iWant TFC, formerly iWant and iWant TV, is a local streaming p
 
 ### iFlix 
 Funded by an international investment firm, Catcha Group, and Philippine Long Distance Telephone Company, iFlix launched in the Philippines in May 2015. In July of the same year, the platform gained over 100,000 subscribers in Southeast Asia, becoming Asia’s fastest-growing Internet service.
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 ***
 
@@ -54,7 +56,7 @@ Mobile Geeks. (2020, January 29).
 3. History of Video Streaming. https://www.mobilegeeks.com/article/history-of-video-streaming/ 
 Hosch, W. L. (2020, November 9). 
 
-4. Netflix | Founders, History, Programming, & Facts. Encyclopedia Britannica. https://www.britannica.com/topic/Netflix-Inc 
+4. Netflix - Founders, History, Programming, & Facts. Encyclopedia Britannica. https://www.britannica.com/topic/Netflix-Inc 
 
 5. Wikipedia contributors. (2020, November 29). Wireless telegraphy. Wikipedia. https://en.wikipedia.org/wiki/Wireless_telegraphy#:%7E:text=Wireless%20telegraphy%20or%20radiotelegraphy%20is,and%20ground%20conduction%20telegraph%20systems. 
 
