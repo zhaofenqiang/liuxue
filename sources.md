@@ -1,5 +1,5 @@
 ---
 title: Sources
 layout: template
-filename: sources.md
+filename: sources
 --- 
