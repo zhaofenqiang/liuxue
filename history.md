@@ -28,6 +28,8 @@ a large drop in the prices of TV, and by this time, about 92% of American homes 
 Due to the increased Internet access by the end of the 1990s and the advances in computer technology, more efficient yet affordable devices were made available 
 to the public. As a result, streaming has now become a part of our everyday lives and is still shaping the way we consume media and pop culture. 
 
+***
+
 ## The Birth of Video Streaming 
 
 ### YouTube
