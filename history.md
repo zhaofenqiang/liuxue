@@ -1,7 +1,7 @@
 ---
 title: History
 layout: template
-filename: history.md
+filename: history
 --- 
 
 ## How They Gained Popularity
