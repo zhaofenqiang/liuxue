@@ -9,7 +9,8 @@ filename: future
 ## The Future of Video Streaming
 
 Watch this video from CNBC (2019)
-{% include youtubePlayer.html %}
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 There is truly no doubt that in present times, video streaming technology has gained plenty of traction causing a disruption to the existing methods of accessing and viewing films due to the convenience that comes along with availing a subscription. Subscribers of any service instantly gain access to thousands of films and programs to choose from; all from the convenience of their televisions, computers, or mobile devices at any place or any time they wish.
