@@ -49,7 +49,8 @@ as well as content from ABS-CBN’s broadcast properties.
 Funded by an international investment firm, Catcha Group, and Philippine Long Distance Telephone Company, iFlix launched in the Philippines in May 2015. In July of the same year, 
 the platform gained over 100,000 subscribers in Southeast Asia, becoming Asia’s fastest-growing Internet service.
 
-** References ** 
+## References  
+
 Wikipedia contributors. (2020, November 27). Streaming media. Wikipedia. https://en.wikipedia.org/wiki/Streaming_media#:%7E:text=%22Streaming%22%20was%20applied%20in%20the,Real%20Networks%20for%20audio%20streaming.
 Tech Wholesale. (n.d.). History of the Radio: A Complete Radio Timeline. Techwholesale.Com. https://www.techwholesale.com/history-of-the-radio.html 
 Mobile Geeks. (2020, January 29). History of Video Streaming. https://www.mobilegeeks.com/article/history-of-video-streaming/ 
