@@ -6,7 +6,7 @@ filename: future
 --- 
 
 
-## The Future of Video Streaming
+# The Future of Video Streaming
 
 Watch this video from CNBC (2019)
 
