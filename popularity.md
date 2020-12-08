@@ -46,20 +46,18 @@ In a report published by *Forbes* early in November, Disney+ dominated the ‘st
 
 Nevertheless, Netflix’s early investments in research and development made it ubiquitous - compatible for almost every device and its service is available globally. Although Disney+ is Netflix’s main competitor, for now, Netflix remains the king of streaming services worldwide. 
 
+***
 
-
-** References: **
-
-
-About Netflix. (n.d.). Retrieved November 30, 2020, from https://about.netflix.com/en
-Armstrong, R. (2020, July 07). Disney+ vs. Netflix. Retrieved December 03, 2020, from https://www.highspeedinternet.com/resources/disney-plus-vs-netflix
-Clark, T. (2020, June 24). Netflix leads its rivals in original TV shows by a wide margin in both quantity and quality, according to new data analysis. Retrieved December 01, 2020, from https://www.businessinsider.com/streaming-comparison-netflix-leads-rivals-in-original-tv-shows-2020-6
-Freeman, A. (2020, November 13). The State Of The Streaming Wars As Disney+ Soars To 73 Million Subscribers. Retrieved December 02, 2020, from https://www.forbes.com/sites/abigailfreeman/2020/11/13/the-state-of-the-streaming-wars-as-disney-soars-to-73-million-subscribers/?sh=7808b4bd7d39
-Fritz, B., & Flint, J. (2011, June 24). Starz deal behind the pulling of Sony movies from Netflix. Retrieved December 01, 2020, from https://www.latimes.com/entertainment/la-xpm-2011-jun-24-la-fi-ct-starz-netflix-20110624-story.html
-How Netflix's Recommendations System Works. (n.d.). Retrieved November 30, 2020, from https://help.netflix.com/en/node/100639
-Iqbal, M. (2020, October 30). Netflix Revenue and Usage Statistics (2020). Retrieved December 02, 2020, from https://www.businessofapps.com/data/netflix-statistics/
-Keslassy, E. (2020, November 12). David Fincher Has Signed a Four-Year Deal With Netflix, Director Tells French Magazine. Retrieved December 01, 2020, from https://variety.com/2020/film/global/david-fincher-netflix-deal-four-year-1234830045/
-Leah, R. (2018, February 02). Mo'Nique's Netflix deal was way worse than previously thought. Retrieved November 30, 2020, from https://www.salon.com/2018/02/02/moniques-netflix-deal-was-way-worse-than-previously-thought/
-Masters, K., & Sandberg, B. (2020, January 29). Netflix to Lay Off Employees as It Shifts Marketing Strategy (Exclusive). Retrieved December 02, 2020, from https://www.hollywoodreporter.com/news/netflix-lay-employees-as-it-shifts-marketing-strategy-1272747
-Pearson, B. (2018, October 26). Streaming Services Are Destroying Hollywood's Middle Class. Retrieved November 30, 2020, from https://www.slashfilm.com/hollywoods-middle-class/
-Swartz, J. (2020, April 22). Netflix has biggest quarter with nearly 16 million new subscribers signing on. Retrieved December 02, 2020, from https://www.marketwatch.com/story/netflix-adds-more-than-15-million-new-subscribers-stock-rockets-higher-2020-04-21
+## Sources
+1. About Netflix. (n.d.). Retrieved November 30, 2020, from https://about.netflix.com/en
+2. Armstrong, R. (2020, July 07). Disney+ vs. Netflix. Retrieved December 03, 2020, from https://www.highspeedinternet.com/resources/disney-plus-vs-netflix
+3. Clark, T. (2020, June 24). Netflix leads its rivals in original TV shows by a wide margin in both quantity and quality, according to new data analysis. Retrieved December 01, 2020, from https://www.businessinsider.com/streaming-comparison-netflix-leads-rivals-in-original-tv-shows-2020-6
+4. Freeman, A. (2020, November 13). The State Of The Streaming Wars As Disney+ Soars To 73 Million Subscribers. Retrieved December 02, 2020, from https://www.forbes.com/sites/abigailfreeman/2020/11/13/the-state-of-the-streaming-wars-as-disney-soars-to-73-million-subscribers/?sh=7808b4bd7d39
+5. Fritz, B., & Flint, J. (2011, June 24). Starz deal behind the pulling of Sony movies from Netflix. Retrieved December 01, 2020, from https://www.latimes.com/entertainment/la-xpm-2011-jun-24-la-fi-ct-starz-netflix-20110624-story.html
+6. How Netflix's Recommendations System Works. (n.d.). Retrieved November 30, 2020, from https://help.netflix.com/en/node/100639
+7. Iqbal, M. (2020, October 30). Netflix Revenue and Usage Statistics (2020). Retrieved December 02, 2020, from https://www.businessofapps.com/data/netflix-statistics/
+8. Keslassy, E. (2020, November 12). David Fincher Has Signed a Four-Year Deal With Netflix, Director Tells French Magazine. Retrieved December 01, 2020, from https://variety.com/2020/film/global/david-fincher-netflix-deal-four-year-1234830045/
+9. Leah, R. (2018, February 02). Mo'Nique's Netflix deal was way worse than previously thought. Retrieved November 30, 2020, from https://www.salon.com/2018/02/02/moniques-netflix-deal-was-way-worse-than-previously-thought/
+10. Masters, K., & Sandberg, B. (2020, January 29). Netflix to Lay Off Employees as It Shifts Marketing Strategy (Exclusive). Retrieved December 02, 2020, from https://www.hollywoodreporter.com/news/netflix-lay-employees-as-it-shifts-marketing-strategy-1272747
+11. Pearson, B. (2018, October 26). Streaming Services Are Destroying Hollywood's Middle Class. Retrieved November 30, 2020, from https://www.slashfilm.com/hollywoods-middle-class/
+12. Swartz, J. (2020, April 22). Netflix has biggest quarter with nearly 16 million new subscribers signing on. Retrieved December 02, 2020, from https://www.marketwatch.com/story/netflix-adds-more-than-15-million-new-subscribers-stock-rockets-higher-2020-04-21
