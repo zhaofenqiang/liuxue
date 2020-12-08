@@ -24,8 +24,6 @@ With a wide variety of available services to choose from, prospective clients ma
 
 Although video streaming technology will probably not make other methods such as cinemas and broadcast television fully obsolete due to them having their own demographic, it certainly will overpower remaining physical movie renting methods some time from now. With major companies opting to use this technology for releasing their content, we can truly be assured that video streaming services will keep being a staple part of our viewing experience in the years to come.
 
-
-
 References:
 
 Cohen, S. (2020, October 3). Disney Plus Premier Access lets subscribers pay an extra fee to watch 'Mulan' before its wide release — here's how much it costs and how it works. Insider Inc. https://www.businessinsider.com/disney-plus-premiere-access
@@ -37,4 +35,3 @@ Ide, W. (2020, July 12). The future of film: can cinema survive Covid-19? Guardi
 Neele, J. (2020, July 23). Streaming is the future of media. Robeco. https://www.robeco.com/en/insights/2020/07/streaming-is-the-future-of-media.html
 
 Ruether, T. (2020, April 1). The Future of Streaming: 2020 and Beyond. Wowza Media Systems, LLC. https://www.wowza.com/blog/future-of-streaming-2020-and-beyond
-
