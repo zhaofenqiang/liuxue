@@ -26,14 +26,13 @@ The reason behind this shift from pay TV into streaming platforms, mainly Netfli
 
 “The reason why disruptive companies are often able to rise so quickly is that their larger competitors overlook them” (Christensen, 2017). They are not initially competing for the same customers and so the big companies do not see them as a competition. And in the case of Blockbuster, it was not able to overlook their position in the long run that they even refused to acquire Netflix’s offer, making them now an example of a disruptee.
 
-REFERENCES:
 
-Hutton, L. (2017, July 3). Why Netflix Is The Ultimate Digital Disrupter: AIB Official Blog. Retrieved from https://www.aib.edu.au/blog/innovate/netflix-digital-disrupter/
+***
 
-Dysenhaus, M. (2020, February 11). Why Netflix is winning the entertainment battle. Retrieved from https://digital.hbs.edu/platform-digit/submission/why-netflix-is-winning-the-entertainment-battle/
+## Sources 
 
-McAlone, N. (2015, November 18). The father of 'disruption' theory explains why Netflix is the perfect example - and Uber isn't. Retrieved from https://www.businessinsider.com/the-father-of-disruption-theory-explains-why-netflix-is-the-perfect-example-and-uber-isnt-2015-11
-
-Investopedia. (2020, August 28). How Netflix Is Changing the TV Industry. Retrieved from https://www.investopedia.com/articles/investing/060815/how-netflix-changing-tv-industry.asp#:~:text=1﻿ By creating compelling,the way they do business.
-
-Hoekenga, W. (2017, November 20). Disruption and Chill: Breaking Down the Evolution of the Netflix Brand. Retrieved from https://www.copygrad.com/2017/10/26/netflix-brand/
+1. Hutton, L. (2017, July 3). Why Netflix Is The Ultimate Digital Disrupter: AIB Official Blog. Retrieved from https://www.aib.edu.au/blog/innovate/netflix-digital-disrupter/
+2. Dysenhaus, M. (2020, February 11). Why Netflix is winning the entertainment battle. Retrieved from https://digital.hbs.edu/platform-digit/submission/why-netflix-is-winning-the-entertainment-battle/
+3. McAlone, N. (2015, November 18). The father of 'disruption' theory explains why Netflix is the perfect example - and Uber isn't. Retrieved from https://www.businessinsider.com/the-father-of-disruption-theory-explains-why-netflix-is-the-perfect-example-and-uber-isnt-2015-11
+4. Investopedia. (2020, August 28). How Netflix Is Changing the TV Industry. Retrieved from https://www.investopedia.com/articles/investing/060815/how-netflix-changing-tv-industry.asp#:~:text=1﻿ By creating compelling,the way they do business.
+5. Hoekenga, W. (2017, November 20). Disruption and Chill: Breaking Down the Evolution of the Netflix Brand. Retrieved from https://www.copygrad.com/2017/10/26/netflix-brand/
