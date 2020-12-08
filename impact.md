@@ -10,11 +10,11 @@ Back in 2017, there had been a significant focus on online streaming services th
 
 When it started back in August 1997, it did not provide what it is known for today. Launching only its mail-in subscription service, the disruptor only appealed to a few customer groups. According to Christensen (2015), the hallmark of disruption is when a company targets segments of the population that have been overlooked by its competitors, delivering an inferior (but more tailored) alternative, often at a lower price. Eventually, such companies move upmarket while keeping the advantages that it had in the beginning as well as adding the things that mainstream customers want. And without anyone realizing, there is no reason to have cable and DVDs anymore, at least because of this disruptive technology. 
 
-Movie Rental Market (DVDs)
+### Movie Rental Market (DVDs)
 
 One of the most well known American-based providers of home movie and video game rental services is Blockbuster (also known as Blockbuster LLC or Blockbuster Video). Netflix, which started as a DVD by mail service competed with such traditional rentals that it even tried to pitch an idea to Blockbuster, offering to “build their streaming service in exchange for a cash infusion and 49% of the company.” Although this is the case, the founder, Reed Hastings, already had plans for it to become a streaming service long before the idea was economically or technically viable. Returning to the offer, it was refused by the giant rental company which then led them to file for bankruptcy in 2010. Up until today, you could barely hear someone using DVD players; instead the conversation starter that we would always encounter is “what is a good movie or series to watch on Netflix?” The huge shift came with the rising of streaming video. Services like Netflix, Amazon Prime, HBO Now, and the like were able to appeal to DVD rental’s core audience by providing a wider selection of content with an all-you-can-watch, on-demand at low-price while still experiencing high-quality with a highly convenient approach. 
 
-Television and Movie Industry
+### Television and Movie Industry
 
 With 4 in every 10 TV households now subscribing to streaming services like Netflix, Amazon, or Hulu, it’s obvious the benefits it offers. Rather than requiring their subscribers to pay a large upfront fee, they keep things simple by offering a low monthly price that’s affordable no matter what one’s income might be. Although streaming services did not have a first window right into any of their programming, they still provide a more convenient alternative to traditional cable TV to many users at a much lower cost. 
 
