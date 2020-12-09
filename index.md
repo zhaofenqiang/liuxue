@@ -9,9 +9,9 @@ filename: index
   <em> Source: The Wall Street Journal </em>
 </p>
 
-<p align="center">
+<h1 align="center">
 Netflix and chill... 
-</p>
+</h1>
 
 
 
