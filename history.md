@@ -19,9 +19,12 @@ maritime transport, in wars, and in 1916, to communicate weather patterns from W
 for more purposes.
 
 ### Muzak 
-![George O. Squier](https://upload.wikimedia.org/wikipedia/commons/3/33/Portrait_of_George_Owen_Squier.jpg)
 
-*Harris & Ewing, Public domain, via Wikimedia Commons*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Portrait_of_George_Owen_Squier.jpg">
+   <br>
+  <em> Harris & Ewing, Public domain, via Wikimedia Commons </em>
+</p>
 
 In 1920, George O. Squier, a U.S. Major General, had perfected a way of transmitting and distributing signals, which led to the development of Muzak. 
 A subscription-based technology that allowed consumers to listen to music through their telephones. However, Muzak was not widely accepted by the consumers 
