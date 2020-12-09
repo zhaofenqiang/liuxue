@@ -20,7 +20,7 @@ One of the most well known American-based providers of home movie and video game
 
 With 4 in every 10 TV households now subscribing to streaming services like Netflix, Amazon, or Hulu, it’s obvious the benefits it offers. Rather than requiring their subscribers to pay a large upfront fee, they keep things simple by offering a low monthly price that’s affordable no matter what one’s income might be. Although streaming services did not have a first window right into any of their programming, they still provide a more convenient alternative to traditional cable TV to many users at a much lower cost. 
 
-![TV Subs](https://github.com/imcrisanto/mms-142/blob/main/tv%20subs.jpg)
+![TV Subs](https://raw.githubusercontent.com/imcrisanto/mms-142/main/tv%20subs.jpg)
 
 When Netflix launched its streaming service in 2007, it acquired content produced by different studios, mostly for movies that had already been released in theatres and for TV shows that had either already finished or those that are still being aired but had a large window between their first time air date on network TV. This growth in streaming service is not only disrupting the TV industry, but is also impacting the number of people who choose to go to the traditional cinema. The number of pay TV subscribers has evolved over the past 10 years with the numbers steadily decreasing since 2012 as the number of streaming services subscribers grew in the same time period. Consequently, total admissions (as in number of tickets sold) in movie theatres have been steadily decreasing in the US since the boom of home content consumption alternatives.
 
