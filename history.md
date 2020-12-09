@@ -5,7 +5,7 @@ layout: template
 filename: history
 --- 
 
-<h1 align ="center" > Introduction </h1>
+<h1 align ="center" > How It All Began </h1>
 
 Today, if we want to watch a music video of a hit song, we do not download it; instead, we load the video on YouTube. Through streaming, we could avoid the hassle of downloading files, thus saving time, effort, and tons of data. But how did this technology start?
 
@@ -86,7 +86,8 @@ Ordinary Things. (2019, June 26).
 
 7. What is Muzak? (Elevator Music) [Video]. YouTube. https://www.youtube.com/watch?v=47mYs1SGBq4 
 Mohsin, M. (2020, November 19). 10 Youtube Statistics That You Need to Know in 2020. Oberlo. https://www.oberlo.com.ph/blog/youtube-statistics#:%7E:text=Here’s%20a%20summary%20of%20the,have%20their%20own%20YouTube%20account. 
-Infoplease. (2017, January 24). Transmission and reception of radio waves. https://www.infoplease.com/encyclopedia/science/engineering/electrical/radio/transmission-and-reception-of-radio-waves 
+Infoplease. (2017, January 24). Transmission and reception of radio waves. 
+https://www.infoplease.com/encyclopedia/science/engineering/electrical/radio/transmission-and-reception-of-radio-waves 
 
 8. Wikipedia contributors. (2020a, October 10). Iflix. Wikipedia. https://en.wikipedia.org/wiki/Iflix
 
