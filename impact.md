@@ -26,7 +26,7 @@ When Netflix launched its streaming service in 2007, it acquired content produce
 
 The reason behind this shift from pay TV into streaming platforms, mainly Netflix, can be attributed to, as was mentioned before, simply a better user experience, at a better price. Netflix gives the users the ability to consume content at their own pace. When they want and how they want. They can watch through the entire thing at once or in more than one sit in. Additionally, users don’t have to sit through commercials which not only makes for a worse user experience, but also increases the overall amount of time that a user has to sit through to consume a movie or a TV episode. In relation to this, in the long run, video streaming service's success may lead to the unbundling of cable; cable customers may be allowed to pick and choose channels rather than pay for a whole batch to get what they want.
 
-![Netflix Subs](https://github.com/imcrisanto/mms-142/blob/main/netflix%20subs.jpg)
+![Netflix Subs](https://raw.githubusercontent.com/imcrisanto/mms-142/main/netflix%20subs.jpg)
 
 “The reason why disruptive companies are often able to rise so quickly is that their larger competitors overlook them” (Christensen, 2017). They are not initially competing for the same customers and so the big companies do not see them as a competition. And in the case of Blockbuster, it was not able to overlook their position in the long run that they even refused to acquire Netflix’s offer, making them now an example of a disruptee.
 
