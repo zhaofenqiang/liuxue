@@ -3,8 +3,9 @@ title: Welcome!
 layout: template
 filename: index
 --- 
-
-![Video Streaming Gif](https://raw.githubusercontent.com/imcrisanto/mms-142/main/streaming-scrolling.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/streaming-scrolling.gif" />
+</p>
 
 # We are group D
 
