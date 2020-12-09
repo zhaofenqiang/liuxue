@@ -11,6 +11,7 @@ filename: index
 
 <h1 align="center"> Netflix (HBO, Hulu, Youtube, Disney+, Apple TV, Amazon Prime Video, etc...) and Chill </h1>
 
+Presented on this site is a report on Video Streaming Services. Be informed of its roots, how it rose to popularity among the audience, 
 
 
 
