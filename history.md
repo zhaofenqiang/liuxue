@@ -8,6 +8,10 @@ filename: history
 # Introduction 
 Today, if we want to watch a music video of a hit song, we do not download it; instead, we load the video on YouTube. Through streaming, we could avoid the hassle of downloading files, thus saving time, effort, and tons of data. But how did this technology start?
 
+
+![Radio Telegraphy](https://upload.wikimedia.org/wikipedia/commons/3/34/SCR188.jpg)
+*Photograph was taken by the U.S. Army Signal Corps, photo number:  GHQ SWPA SC 43 5901 by T/4 Harold Newman., Public domain, via Wikimedia Commons*
+
 ### Radio 
 It all started with radiotelegraphy or the transmission of signals through radio waves. In 1986, Guglielmo Marconi obtained a patent for his invention 
 of the first radio transmitters and receivers. By sending signals without electrical lines, the radio became an indispensable communication tool for 
@@ -15,6 +19,10 @@ maritime transport, in wars, and in 1916, to communicate weather patterns from W
 for more purposes.
 
 ### Muzak 
+![George O. Squier](https://upload.wikimedia.org/wikipedia/commons/3/33/Portrait_of_George_Owen_Squier.jpg)
+
+*Harris & Ewing, Public domain, via Wikimedia Commons*
+
 In 1920, George O. Squier, a U.S. Major General, had perfected a way of transmitting and distributing signals, which led to the development of Muzak. 
 A subscription-based technology that allowed consumers to listen to music through their telephones. However, Muzak was not widely accepted by the consumers 
 because of the hype about the radio. With this in mind, the company explored other opportunities and became background music for public spaces such as malls, 
@@ -27,6 +35,11 @@ a large drop in the prices of TV, and by this time, about 92% of American homes 
 ### 21st Century Streaming 
 Due to the increased Internet access by the end of the 1990s and the advances in computer technology, more efficient yet affordable devices were made available 
 to the public. As a result, streaming has now become a part of our everyday lives and is still shaping the way we consume media and pop culture. 
+
+***
+
+## Check out this infographic:
+![Infographic](https://blog.video.ibm.com/wp-content/uploads/2016/02/ABriefHistoryofStreamingVideo_peg.jpg)
 
 ***
 
@@ -46,6 +59,8 @@ Launched in 2010, iWant TFC, formerly iWant and iWant TV, is a local streaming p
 
 ### iFlix 
 Funded by an international investment firm, Catcha Group, and Philippine Long Distance Telephone Company, iFlix launched in the Philippines in May 2015. In July of the same year, the platform gained over 100,000 subscribers in Southeast Asia, becoming Asia’s fastest-growing Internet service.
+
+
 
 ***
 
