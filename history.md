@@ -82,7 +82,8 @@ Hosch, W. L. (2020, November 9).
 20or%20radiotelegraphy%20is,and%20ground%20conduction%20telegraph%20systems.
 
 6. Lallanilla, M. (2014, May 15). 
-The Science of World War I: Communications. Livescience.Com. https://www.livescience.com/45641-science-of-world-war-i-communications.html#:%7E:text=Wartime%20radio&text=The%20%22wireless%22%20(as%20early,to%20don%20their%20gas%20masks.
+The Science of World War I: Communications. Livescience.Com. https://www.livescience.com/45641-science-of-world-war-i-communications.html#:%7E:text=Wartime%20radio&text=
+The%20%22wireless%22%20(as%20early,to%20don%20their%20gas%20masks.
 Ordinary Things. (2019, June 26). 
 
 7. What is Muzak? (Elevator Music) [Video]. YouTube. https://www.youtube.com/watch?v=47mYs1SGBq4 
