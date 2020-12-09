@@ -6,8 +6,9 @@ filename: index
 <p align="center">
   <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/streaming-scrolling.gif" />
 </p>
+Source: The Wall Street Journal
 
-# We are group D
+Netflix and chill... 
 
-We love watching films online!
+
 
