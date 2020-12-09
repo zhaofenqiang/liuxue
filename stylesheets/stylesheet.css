@@ -253,7 +253,7 @@ a {
   color: #fffff;
   text-align: center;
   padding-below: 2em;
-  margin-below: 2em;
+  margin-below: 25px;
 }
 
 @media screen and (min-width: 64em) {
