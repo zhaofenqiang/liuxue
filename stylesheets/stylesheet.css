@@ -237,7 +237,8 @@ a {
 
 .site-footer-credits {
   color: #819198;
-  text-align: center }
+  text-align: center;
+}
 
 @media screen and (min-width: 64em) {
   .site-footer {
