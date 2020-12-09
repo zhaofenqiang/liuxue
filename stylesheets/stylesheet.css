@@ -221,10 +221,9 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
-  color: #fff;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
-  }
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-top: solid 1px #eff0f1; }
 
 .site-footer-owner {
   display: block;
@@ -235,15 +234,12 @@ a {
 
 @media screen and (min-width: 64em) {
   .site-footer {
-    font-size: 5rem 6rem; } }
+    font-size: 1rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .site-footer {
-    font-size: 1rem; 
-    padding: 3rem 4rem;} }
+    font-size: 1rem; } }
 
 @media screen and (max-width: 42em) {
   .site-footer {
-    font-size: 0.9rem;
-  padding: 2rem 1rem;} }
-
+    font-size: 0.9rem; } }
