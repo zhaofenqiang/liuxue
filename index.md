@@ -10,8 +10,10 @@ filename: index
 </p>
 
 <h1 align="center">
-Netflix and chill... 
+Netflix and chill...  
 </h1>
+
+<h1 style="color:blue;align:center;"> This is a Blue Heading </h1>
 
 
 
