@@ -248,6 +248,7 @@ a {
   display: block;
   color: #fffff;
   text-align: center;
+  padding-below: 2rem;
 }
 
 @media screen and (min-width: 64em) {
