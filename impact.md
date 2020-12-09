@@ -1,10 +1,10 @@
 ---
+youtubeId: XL6zNexyt8o
 title: Impact
 layout: template
 filename: impact
 --- 
-
-![Movie Tickets](https://github.com/imcrisanto/mms-142/blob/main/movie%20tix%20sold.jpg)
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ## Impact to the Disruptees
 
