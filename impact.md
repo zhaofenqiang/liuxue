@@ -4,6 +4,8 @@ layout: template
 filename: impact
 --- 
 
+![Movie Tickets](https://github.com/imcrisanto/mms-142/blob/main/movie%20tix%20sold.jpg)
+
 ## Impact to the Disruptees
 
 Back in 2017, there had been a significant focus on online streaming services that had caused a major disruption to the television and movie industry. Netflix, specifically, is the first major subscription-based movie and TV streaming service (using the internet) that serves as the on-demand platform that offers an inexpensive alternative to traditional expensive cable TV services anytime and anywhere. 
@@ -18,11 +20,13 @@ One of the most well known American-based providers of home movie and video game
 
 With 4 in every 10 TV households now subscribing to streaming services like Netflix, Amazon, or Hulu, it’s obvious the benefits it offers. Rather than requiring their subscribers to pay a large upfront fee, they keep things simple by offering a low monthly price that’s affordable no matter what one’s income might be. Although streaming services did not have a first window right into any of their programming, they still provide a more convenient alternative to traditional cable TV to many users at a much lower cost. 
 
+![TV Subs](https://github.com/imcrisanto/mms-142/blob/main/tv%20subs.jpg)
+
 When Netflix launched its streaming service in 2007, it acquired content produced by different studios, mostly for movies that had already been released in theatres and for TV shows that had either already finished or those that are still being aired but had a large window between their first time air date on network TV. This growth in streaming service is not only disrupting the TV industry, but is also impacting the number of people who choose to go to the traditional cinema. The number of pay TV subscribers has evolved over the past 10 years with the numbers steadily decreasing since 2012 as the number of streaming services subscribers grew in the same time period. Consequently, total admissions (as in number of tickets sold) in movie theatres have been steadily decreasing in the US since the boom of home content consumption alternatives.
 
 The reason behind this shift from pay TV into streaming platforms, mainly Netflix, can be attributed to, as was mentioned before, simply a better user experience, at a better price. Netflix gives the users the ability to consume content at their own pace. When they want and how they want. They can watch through the entire thing at once or in more than one sit in. Additionally, users don’t have to sit through commercials which not only makes for a worse user experience, but also increases the overall amount of time that a user has to sit through to consume a movie or a TV episode. In relation to this, in the long run, video streaming service's success may lead to the unbundling of cable; cable customers may be allowed to pick and choose channels rather than pay for a whole batch to get what they want.
 
--
+![Netflix Subs](https://github.com/imcrisanto/mms-142/blob/main/netflix%20subs.jpg)
 
 “The reason why disruptive companies are often able to rise so quickly is that their larger competitors overlook them” (Christensen, 2017). They are not initially competing for the same customers and so the big companies do not see them as a competition. And in the case of Blockbuster, it was not able to overlook their position in the long run that they even refused to acquire Netflix’s offer, making them now an example of a disruptee.
 
