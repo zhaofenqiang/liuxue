@@ -9,7 +9,7 @@ filename: index
   <em> Source: The Wall Street Journal </em>
 </p>
 
-### Netflix (HBO+, dISNEYand chill... 
+# Netflix (HBO, Hulu, Youtube, Disney+, etc...) and Chill
 
 
 
