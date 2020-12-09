@@ -230,6 +230,11 @@ a {
   font-weight: bold;
   text-align: center; 
 }
+.site-footer-names {
+  display: block;
+  text-align: center;
+}
+
 
 .site-footer-credits {
   color: #819198; }
