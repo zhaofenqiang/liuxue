@@ -9,7 +9,7 @@ filename: index
   <em> Source: The Wall Street Journal </em>
 </p>
 
-<h1 align="center"> Netflix (HBO, Hulu, Youtube, Disney+, Apple TV, etc...) and Chill </h1>
+<h1 align="center"> Netflix (HBO, Hulu, Youtube, Disney+, Apple TV, Amazon Prime Video, etc...) and Chill </h1>
 
 
 
