@@ -19,7 +19,7 @@ There is truly no doubt that in present times, video streaming technology has ga
 
 Due to the popularity of direct to streaming films and original content in the past years and in the present, streaming services have also proven that they are able to keep up to par with the quality of those films that were made for theatrical release. With this, we may expect a surge in the production and release of higher budget original content by the streaming service companies that are most subscribed to by the majority of consumers.
 
-![Streaming Chart](https://github.com/imcrisanto/mms-142/blob/main/future%20streaming%20chart.png)
+![Streaming Chart](https://raw.githubusercontent.com/imcrisanto/mms-142/main/future%20streaming%20chart.png)
 
 One also cannot rule out the possibility of having future major films by the industry’s top production companies directly being released on streaming services as a default subscription benefit or as additional content using the pay per view or add-on system. Major production companies such as Walt Disney Pictures are already showcasing the latter concept in the present with the release of their film, Mulan. The company charged an additional one-time fee on top of the monthly subscription charges for eager users to be able to watch the anticipated film in advance (Cohen, 2020). Perhaps, other services would also follow suit in the near future seeing as newcomers in the streaming industry are owned by already established companies.
 
