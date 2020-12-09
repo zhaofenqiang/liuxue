@@ -15,8 +15,8 @@ Presented on this site is a report on Video Streaming Services by Group D. Be in
 how it runs as a business; its impact to the television, DVD, and traditional film industries; and ultimately, the future awaiting this technology based on the current trends and data. 
 
 <h3 align="center"> <i> Most entrepreneurial ideas will sound crazy, stupid, and uneconomic, <br> and then they'll turn out to be right. </i> </h3>
-<h4 align="center"> <i> Reed Hastings </i> </h3>
-<h5 align="center"> <i> CEO of Netflix </i> </h3>
+<h4 align="center"> <i> Reed Hastings </i> </h4>
+<h5 align="center"> <i> CEO of Netflix </i> </h5>
 
 
 
