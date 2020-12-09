@@ -233,18 +233,18 @@ a {
 .site-footer-owner {
   display: block;
   font-weight: bold;
-  color: 	#fff
+  color: #fff
   text-align: center; 
 }
 .site-footer-names {
   display: block;
-  color: 	#fff
+  color: 	#fff;
   text-align: center;
 }
 
 .site-footer-credits {
-  display: block
-  color: 	#fff
+  display: block;
+  color: #fff;
   text-align: center;
 }
 
