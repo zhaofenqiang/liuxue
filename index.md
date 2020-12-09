@@ -9,12 +9,7 @@ filename: index
   <em> Source: The Wall Street Journal </em>
 </p>
 
-<h1 align="center">
-Netflix and chill...  
-</h1>
-
- <h1 style="color: #eee;">Hello world!</h1>
-
+### Netflix (HBO+, dISNEYand chill... 
 
 
 
