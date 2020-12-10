@@ -7,10 +7,10 @@ filename: future
 
 <h1 align ="center" > The Future of Video Streaming </h1>
 
-Watch this video from CNBC (2019)
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+Watch this video from CNBC (2019)
 ***
 
 ## Higher Number of Quality Content
