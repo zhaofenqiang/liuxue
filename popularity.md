@@ -3,7 +3,7 @@ title: Popularity
 layout: template
 filename: popularity
 --- 
-## How They Gained Popularity
+<h1 align ="center" > How They Rose to Fame </h1>
 
 The history of streaming services arguably began with Netflix when they first introduced their streaming service for free because it was included in the company’s physical DVD subscription package back in 2007. 
 
