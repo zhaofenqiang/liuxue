@@ -4,7 +4,7 @@ layout: template
 filename: business
 --- 
 
-<h1 align ="center" > Minding the Business of Video Streaming Services </h1>
+<h1 align ="center" > Minding the Business of <br> Video Streaming Services </h1>
 
 The emerging Internet-based broadcasting system has increasingly challenged traditional platforms for TV and film distribution and production. Grappling with outdated business models mainly based on physical media and facilities, many industry players in broadcast and cable television, as well as in film and music, are embarking on innovative ways to create unique online content using new digital technologies, new distribution systems and largely new revenue mechanisms. 
 
