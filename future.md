@@ -39,8 +39,8 @@ Although video streaming technology will probably not make other methods such as
 ***
 
 ## Sources 
-1. Cohen, S. (2020, October 3). Disney Plus Premier Access lets subscribers pay an extra fee to watch 'Mulan' before its wide release — here's how much it costs and how it works. Insider Inc. https://www.businessinsider.com/disney-plus-premiere-access
-2. Deloitte. (2018, September 18). Future scenarios for the TV and video industry by 2030. Deloitte Touche Tohmatsu Limited. https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-future-of-tv-video.html
-3. Ide, W. (2020, July 12). The future of film: can cinema survive Covid-19? Guardian News & Media Limited. https://www.theguardian.com/film/2020/jul/12/the-future-of-film-can-cinema-survive-covid-19
-4. Neele, J. (2020, July 23). Streaming is the future of media. Robeco. https://www.robeco.com/en/insights/2020/07/streaming-is-the-future-of-media.html
-5. Ruether, T. (2020, April 1). The Future of Streaming: 2020 and Beyond. Wowza Media Systems, LLC. https://www.wowza.com/blog/future-of-streaming-2020-and-beyond
+1. [Cohen, S. (2020, October 3). Disney Plus Premier Access lets subscribers pay an extra fee to watch 'Mulan' before its wide release — here's how much it costs and how it works. Insider Inc.](https://www.businessinsider.com/disney-plus-premiere-access)
+2. [Deloitte. (2018, September 18). Future scenarios for the TV and video industry by 2030. Deloitte Touche Tohmatsu Limited.](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-future-of-tv-video.html)
+3. [Ide, W. (2020, July 12). The future of film: can cinema survive Covid-19? Guardian News & Media Limited.](https://www.theguardian.com/film/2020/jul/12/the-future-of-film-can-cinema-survive-covid-19)
+4. [Neele, J. (2020, July 23). Streaming is the future of media. Robeco.](https://www.robeco.com/en/insights/2020/07/streaming-is-the-future-of-media.html)
+5. [Ruether, T. (2020, April 1). The Future of Streaming: 2020 and Beyond. Wowza Media Systems, LLC.](https://www.wowza.com/blog/future-of-streaming-2020-and-beyond)
