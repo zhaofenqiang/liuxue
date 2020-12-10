@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-<h1 align="center"> <strike> Netflix and Chill </strong> </strike> <br> <strong> Netflix, HBO, Hulu, Youtube, Disney+, Apple TV, Amazon Prime Video... and Chill </h1>
+<h1 align="center"> <strike> Netflix and Chill </strong> </strike> <br>  Netflix, HBO, Hulu, Youtube, Disney+, Apple TV, Amazon Prime Video... and Chill </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/streaming-scrolling.gif" />
