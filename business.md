@@ -54,7 +54,7 @@ Netflix and Amazon Prime Video are some popular examples of the subscription-VoD
 ***
 
 ## Sources
-1. Guitton, J. (2015, October 21). Netflix Case Study. Slideshare. https://www.slideshare.net/JulienGuitton/netflix-case-study-54240175
-2. Gvozdev, E. (2013, December 17). Netflix Business Model & Strategy. Slideshare. https://www.slideshare.net/egvozdev/netflix-business-model-strategy
+1. [Guitton, J. (2015, October 21). Netflix Case Study. Slideshare.] (https://www.slideshare.net/JulienGuitton/netflix-case-study-54240175)
+2. [Gvozdev, E. (2013, December 17). Netflix Business Model & Strategy. Slideshare.] (https://www.slideshare.net/egvozdev/netflix-business-model-strategy)
 3. Laudon, K., & Traver, C. (2018). E-Commerce 2018: Business, Technology, Society (14th ed.). Pearson.
-4. Statista. (2020). Video Streaming (SVoD) - worldwide - Statista Market Forecast. https://www.statista.com/outlook/206/100/video-streaming--svod-/worldwide
+4. [Statista. (2020). Video Streaming (SVoD) - worldwide - Statista Market Forecast.] (https://www.statista.com/outlook/206/100/video-streaming--svod-/worldwide)
