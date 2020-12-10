@@ -10,12 +10,12 @@ body {
   color: #606c71; }
 
 a {
-  color: #fff;
+  color: #000000;
   text-decoration: none;
   font-style: italic;
   opacity: 0.7}
  a:hover {
-    color: #fff;
+    color: #000000;
     font-style: italic;
     text-decoration: underline;
     opacity: 0.7}
