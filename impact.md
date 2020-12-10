@@ -11,6 +11,8 @@ filename: impact
 
 <p align = "center"> <i> Watch the video above from Newsweek (2020) </i> </p> 
 
+***
+
 Back in 2017, there had been a significant focus on online streaming services that had caused a major disruption to the television and movie industry. Netflix, specifically, is the first major subscription-based movie and TV streaming service (using the internet) that serves as the on-demand platform that offers an inexpensive alternative to traditional expensive cable TV services anytime and anywhere. 
 
 When it started back in August 1997, it did not provide what it is known for today. Launching only its mail-in subscription service, the disruptor only appealed to a few customer groups. According to Christensen (2015), the hallmark of disruption is when a company targets segments of the population that have been overlooked by its competitors, delivering an inferior (but more tailored) alternative, often at a lower price. Eventually, such companies move upmarket while keeping the advantages that it had in the beginning as well as adding the things that mainstream customers want. And without anyone realizing, there is no reason to have cable and DVDs anymore, at least because of this disruptive technology. 
