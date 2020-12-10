@@ -9,7 +9,7 @@ filename: impact
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-
+<p align = "center"> <i> Watch the video above from Newsweek (2020) </i> </p> 
 
 Back in 2017, there had been a significant focus on online streaming services that had caused a major disruption to the television and movie industry. Netflix, specifically, is the first major subscription-based movie and TV streaming service (using the internet) that serves as the on-demand platform that offers an inexpensive alternative to traditional expensive cable TV services anytime and anywhere. 
 
