@@ -10,7 +10,7 @@ filename: future
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-<p align = "center"> Watch the video above from CNBC (2019) </p> 
+<p align = "center"> <i> Watch the video above from CNBC (2019) </i> </p> 
 
 ***
 
