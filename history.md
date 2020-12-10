@@ -5,7 +5,7 @@ layout: template
 filename: history
 --- 
 
-<h1 align ="center" > How It All Began </h1>
+<h1 align ="center"> How It All Began </h1>
 
 Today, if we want to watch a music video of a hit song, we do not download it; instead, we load the video on YouTube. Through streaming, we could avoid the hassle of downloading files, thus saving time, effort, and tons of data. But how did this technology start?
 
