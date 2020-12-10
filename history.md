@@ -68,7 +68,8 @@ Funded by an international investment firm, Catcha Group, and Philippine Long Di
 ***
 
 ## Sources 
-1. Wikipedia contributors. (2020, November 27). Streaming media. Wikipedia. https://en.wikipedia.org/wiki/Streaming_media#:%7E:text=%22Streaming%22%20was%20applied%20in%20the,Real%20Networks%20for%20audio%20streaming.
+1. Wikipedia contributors. (2020, November 27). Streaming media. Wikipedia. https://en.wikipedia.org/wiki/Streaming_media#:%7E:text=%22Streaming%22%20was%20applied%
+20in%20the,Real%20Networks%20for%20audio%20streaming.
 
 2. Tech Wholesale. (n.d.). History of the Radio: A Complete Radio Timeline. Techwholesale.Com. https://www.techwholesale.com/history-of-the-radio.html 
 Mobile Geeks. (2020, January 29). 
