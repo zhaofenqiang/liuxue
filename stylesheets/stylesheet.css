@@ -12,11 +12,13 @@ body {
 a {
   color: #fff;
   text-decoration: none;
-   font-style: italic;}
+  font-style: italic;
+  opacity: 0.7}
  a:hover {
     color: #fff;
     font-style: italic;
-    text-decoration: underline; }
+    text-decoration: underline;
+    opacity: 0.7}
 
 .btn {
   display: inline-block;
