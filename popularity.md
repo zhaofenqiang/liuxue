@@ -5,6 +5,13 @@ filename: popularity
 --- 
 <h1 align ="center" > How They Rose to Fame </h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/streaming services gif.gif">
+   <br>
+  <em> Animation: Yuliya Kim; Source: Getty Images </em>
+</p>
+
+
 The history of streaming services arguably began with Netflix when they first introduced their streaming service for free because it was included in the company’s physical DVD subscription package back in 2007. 
 
  Nowadays, *Netflix* is a tour de force - the one-stop streaming service that has all the best of old TV series, films, along with chart-topping originals in its arsenal. Netflix with its home base in Los Gatos, California, now has 18 office locations across 14 countries including the Philippines. Each of these with its own original shows and movies exclusive to their location.
