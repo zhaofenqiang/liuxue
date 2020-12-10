@@ -4,7 +4,7 @@ layout: template
 filename: business
 --- 
 
-# Business Models for Video Streaming Services
+<h1 align ="center" > Business Models for Video Streaming Services </h1>
 
 The emerging Internet-based broadcasting system has increasingly challenged traditional platforms for TV and film distribution and production. Grappling with outdated business models mainly based on physical media and facilities, many industry players in broadcast and cable television, as well as in film and music, are embarking on innovative ways to create unique online content using new digital technologies, new distribution systems and largely new revenue mechanisms. 
 
@@ -20,9 +20,11 @@ Rather than establishing their own industry-wide online delivery system, many ma
 
 Online TV and movies loom to be the largest and fastest growing form of online entertainment. In general, three revenue models for delivering content on the Internet are identified as follows: 
 
-a. Subscription - *Opting for quality and convenience, many consumers have increasingly opted to purchase premium content. This revenue model offers a type of "all you can eat" flexibility for consumption.*
-b. A La Carte - *Essentially a "pick-and-pay" pricing model, customers pay for individual shows in a selection menu. This enables consumers to have a more customized experience based on content preferences and spending capacity.*
-c. Advertising-supported - *This model depends on advertising revenue to provide free content. Alongside is  usually a "freemium" option for purchase. Contrary to some claims, free content can actually even lure customers to paid content, as evidenced by the success of the likes of Pandora and Spotify.*
+<ol>
+<li> a. Subscription - *Opting for quality and convenience, many consumers have increasingly opted to purchase premium content. This revenue model offers a type of "all you can eat" flexibility for consumption. </li> 
+<li> b. A La Carte - *Essentially a "pick-and-pay" pricing model, customers pay for individual shows in a selection menu. This enables consumers to have a more customized experience based on content preferences and spending capacity. </li>
+<li> c. Advertising-supported - *This model depends on advertising revenue to provide free content. Alongside is  usually a "freemium" option for purchase. Contrary to some claims, free content can actually even lure customers to paid content, as evidenced by the success of the likes of Pandora and Spotify. </li> 
+ </ol>
 
 ### Video-on-Demand fee-based business models
 
