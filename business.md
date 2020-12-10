@@ -10,6 +10,12 @@ The emerging Internet-based broadcasting system has increasingly challenged trad
 
 Game changers headed by Netflix, Hulu, Amazon Studios and even Youtube (Google) are breaking new grounds as they create more original, prime content aimed for Internet distribution. Purportedly the most successful video-on-demand streaming service to date, Netflix has steadily produced all-original series (House of Cards, Orange Is the New Black, BoJack Horseman, Unbreakable Kimmy Schmidt, among others), gaining both commercial success and critical acclaim. 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/kevin spacey.jpg">
+   <br>
+  <em> Source: AZ Quotes </em>
+</p>
+
 A growing number of independent content producers and even media giants has progressively reduced dependence on conventional cable providers or broadcast networks for distribution. For consumers, the rise of this subscription-based business model for distributed content offers more freedom of choice, a la carte entertainment, and increased control of programming and scheduling of preferred shows. It dissolves the necessity to purchase bundles of channels in which many consumers simply end up paying for content that they often never watch. With the explosive growth of mobile devices and their ubiquitous usage as an alternative to traditional media screens, online streaming services significantly complement the evolving viewing habits of a new generation of captive consumers. 
 
 Rather than establishing their own industry-wide online delivery system, many major TV networks and film outfits are now forging connections with tech-based Internet distributors like Netflix, Yahoo, Google, Amazon, Facebook, and Apple for media distribution. Netflix in particular has quickly distinguished itself as the non-cable alternative to cable TV. Even as original productions are expensive, Netflix is able to differentiate its own content which attracts new subscribers and also reduces the company's cost for licensing existing content from mainstream outfits. While movie theater chains and DVD rental/sales stores in the pre-Internet era were never involved in actual film production, distributors like Netflix, Amazon, Hulu, and Google have shown financial capabilities to make feature-length movies. 
@@ -21,18 +27,18 @@ Rather than establishing their own industry-wide online delivery system, many ma
 Online TV and movies loom to be the largest and fastest growing form of online entertainment. In general, three revenue models for delivering content on the Internet are identified as follows: 
 
 
-a. Subscription - *Opting for quality and convenience, many consumers have increasingly opted to purchase premium content. This revenue model offers a type of "all you can eat" flexibility for consumption. <br>
-b. A La Carte - *Essentially a "pick-and-pay" pricing model, customers pay for individual shows in a selection menu. This enables consumers to have a more customized experience based on content preferences and spending capacity. <br>
-c. Advertising-supported - *This model depends on advertising revenue to provide free content. Alongside is  usually a "freemium" option for purchase. Contrary to some claims, free content can actually even lure customers to paid content, as evidenced by the success of the likes of Pandora and Spotify. <br>
+  a. **Subscription** - Opting for quality and convenience, many consumers have increasingly opted to purchase premium content. This revenue model offers a type of "all you can eat" flexibility for consumption. <br>
+  b. **A La Carte** - Essentially a "pick-and-pay" pricing model, customers pay for individual shows in a selection menu. This enables consumers to have a more customized experience based on content preferences and spending capacity. <br>
+  c. **Advertising-supported** - This model depends on advertising revenue to provide free content. Alongside is  usually a "freemium" option for purchase. Contrary to some claims, free content can actually even lure customers to paid content, as evidenced by the success of the likes of Pandora and Spotify. <br>
 
 
 ### Video-on-Demand fee-based business models
 
 Video-on-Demand services allow customers to decide when and where they want to watch movies or TV series. The worldwide revenue of US$53.0 billion in 2019 is expected to grow to US$96.0 billion in 2025. Video-on-Demand (VoD) content distributed over the Internet includes three fee-based business models: 
 
-a. Transactional VoD (TVoD) - *This consists of rentals as a single transaction or pay-per-view.* 
-b. Subscription VoD (SVoD) - *This represents rentals as subscription-based services.*
-c. Electronic-Sell-Through (EST) - *This encompasses purchased downloads or cloud storage.* 
+a. **Transactional VoD (TVoD)** - This consists of rentals as a single transaction or pay-per-view. <br>
+b. **Subscription VoD (SVoD)** - This represents rentals as subscription-based services. <br>
+c. **Electronic-Sell-Through (EST)** - This encompasses purchased downloads or cloud storage. <br>
 
 Netflix and Amazon Prime Video are some popular examples of the subscription-VoD or SVoD model. For a monthly subscription fee, consumers can access movies and TV series which are streamed to a variety of supported devices. 
 
