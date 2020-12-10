@@ -10,7 +10,7 @@ filename: history
 Today, if we want to watch a music video of a hit song, we do not download it; instead, we load the video on YouTube. Through streaming, we could avoid the hassle of downloading files, thus saving time, effort, and tons of data. But how did this technology start?
 
 ![Radio Telegraphy](https://upload.wikimedia.org/wikipedia/commons/3/34/SCR188.jpg)
-*Photograph was taken by the U.S. Army Signal Corps, photo number:  GHQ SWPA SC 43 5901 by T/4 Harold Newman., Public domain, via Wikimedia Commons*
+<p align="center"> Photograph was taken by the U.S. Army Signal Corps, photo number:  GHQ SWPA SC 43 5901 by T/4 Harold Newman., Public domain, via Wikimedia Commons </p>
 
 ## Radio 
 It all started with radiotelegraphy or the transmission of signals through radio waves. In 1986, Guglielmo Marconi obtained a patent for his invention 
