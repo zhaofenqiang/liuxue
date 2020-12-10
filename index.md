@@ -3,7 +3,7 @@ title: Welcome!
 layout: template
 filename: index
 --- 
-
+<br>
 <h1 align="center"> <strike> Netflix and Chill </strike> <br> Netflix, HBO, Hulu, Youtube, Disney+, Apple TV, Amazon Prime Video... and Chill </h1>
 
 <p align="center">
@@ -19,12 +19,5 @@ how it runs as a business; its impact to the television, DVD, and traditional fi
 
 <h3 align="center"> <i> "Most entrepreneurial ideas will sound crazy, stupid, and uneconomic, <br> and then they'll turn out to be right." </i> <br> <h4 align="center"> Reed Hastings, CEO of Netflix </h4>  </h3> 
 
-
 *** 
-
-
-
-
-
-
 
