@@ -69,35 +69,26 @@ Funded by an international investment firm, Catcha Group, and Philippine Long Di
 ***
 
 ## Sources 
-1. [Wikipedia contributors. (2020, November 27). Streaming media. Wikipedia.](https://en.wikipedia.org/wiki/Streaming_media#:%7E:text=%22Streaming%22%20was%20applied%
-20in%20the,Real%20Networks%20for%20audio%20streaming)
+1. [Wikipedia contributors. (2020, November 27). Streaming media. Wikipedia.](https://en.wikipedia.org/wiki/Streaming_media#:%7E:text=%22Streaming%22%20was%20applied%20in%20the,Real%20Networks%20for%20audio%20streaming)
 
 2. [Tech Wholesale. (n.d.). History of the Radio: A Complete Radio Timeline. Techwholesale.Com.](https://www.techwholesale.com/history-of-the-radio.html) 
-Mobile Geeks. (2020, January 29). 
 
 3. [History of Video Streaming.](https://www.mobilegeeks.com/article/history-of-video-streaming/) 
-Hosch, W. L. (2020, November 9). 
 
 4. [Netflix - Founders, History, Programming, & Facts. Encyclopedia Britannica.](https://www.britannica.com/topic/Netflix-Inc) 
 
-5. [Wikipedia contributors. (2020, November 29). Wireless telegraphy. Wikipedia.](https://en.wikipedia.org/wiki/Wireless_telegraphy#:%7E:text=Wireless%20telegraphy%
-20or%20radiotelegraphy%20is,and%20ground%20conduction%20telegraph%20systems.)
+5. [Wikipedia contributors. (2020, November 29). Wireless telegraphy. Wikipedia.](https://en.wikipedia.org/wiki/Wireless_telegraphy#:%7E:text=Wireless%20telegraphy%20or%20radiotelegraphy%20is,and%20ground%20conduction%20telegraph%20systems)
 
-6. Lallanilla, M. (2014, May 15). 
+6. [Lallanilla, M. (2014, May 15).The Science of World War I: Communications. Livescience.Com.](https://www.livescience.com/45641-science-of-world-war-i-communications.html#:%7E:text=Wartime%20radio&text=The%20%22wireless%22%20)
 
-7. [The Science of World War I: Communications. Livescience.Com.](https://www.livescience.com/45641-science-of-world-war-i 
-communications.html#:%7E:text=Wartime%20radio&text=The%20%22wireless%22%20(as%20early,to%20don%20their%20gas%20masks)
+7. [Ordinary Things. (2019, June 26).What is Muzak? (Elevator Music) Video. YouTube.](https://www.youtube.com/watch?v=47mYs1SGBq4)
 
-8. Ordinary Things. (2019, June 26). 
+8. [Mohsin, M. (2020, November 19). 10 Youtube Statistics That You Need to Know in 2020. Oberlo.](https://www.oberlo.com.ph/blog/youtube-statistics#:%7E:text=Here’s%20a%20summary%20of%20the,have%20their%20own%20YouTube%20account.)
 
-9. [What is Muzak? (Elevator Music) [Video]. YouTube.](https://www.youtube.com/watch?v=47mYs1SGBq4)
+9. [Infoplease. (2017, January 24). Transmission and reception of radio waves.](https://www.infoplease.com/encyclopedia/science/engineering/electrical/radio/transmission-and-reception-of-radio-waves)
 
-10. [Mohsin, M. (2020, November 19). 10 Youtube Statistics That You Need to Know in 2020. Oberlo.](https://www.oberlo.com.ph/blog/youtube-statistics#:%7E:text=Here’s%20a%20summary%20of%20the,have%20their%20own%20YouTube%20account.)
+10. [Wikipedia contributors. (2020a, October 10). Iflix. Wikipedia.](https://en.wikipedia.org/wiki/Iflix)
 
-11. [Infoplease. (2017, January 24). Transmission and reception of radio waves.](https://www.infoplease.com/encyclopedia/science/engineering/electrical/radio/transmission-and-reception-of-radio-waves)
+11. [Wikipedia contributors. (2020d, December 3). IWantTFC. Wikipedia.](https://en.wikipedia.org/wiki/IWantTFC) 
 
-12. [Wikipedia contributors. (2020a, October 10). Iflix. Wikipedia.](https://en.wikipedia.org/wiki/Iflix)
-
-13. [Wikipedia contributors. (2020d, December 3). IWantTFC. Wikipedia.](https://en.wikipedia.org/wiki/IWantTFC) 
-
-14. [PACE Technical Services Inc. (n.d.). A Brief History of Streaming Media.](https://www.pacetechnical.com/brief-history-streaming-media/) 
+12. [PACE Technical Services Inc. (n.d.). A Brief History of Streaming Media.](https://www.pacetechnical.com/brief-history-streaming-media/) 
