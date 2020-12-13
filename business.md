@@ -10,7 +10,7 @@ The emerging Internet-based broadcasting system has increasingly challenged trad
 
 Game changers headed by Netflix, Hulu, Amazon Studios and even Youtube (Google) are breaking new grounds as they create more original, prime content aimed for Internet distribution. Purportedly the most successful video-on-demand streaming service to date, Netflix has steadily produced all-original series (House of Cards, Orange Is the New Black, BoJack Horseman, Unbreakable Kimmy Schmidt, among others), gaining both commercial success and critical acclaim. 
 
-<h3> align ="center" >Explore the interactive image below for market statistics:</h3>
+<h3 align ="center">Explore the interactive image below for market statistics:</h3>
 <figure class="video_container">
 <iframe width="960" height="576" data-original-width="1262" data-original-height="757" src="https://www.thinglink.com/card/1394584578202533890" type="text/html" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" scrolling="no"></iframe><script async="" src="//cdn.thinglink.me/jse/responsive.js"></script>
 </figure>
