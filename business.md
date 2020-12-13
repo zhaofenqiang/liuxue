@@ -17,6 +17,10 @@ Game changers headed by Netflix, Hulu, Amazon Studios and even Youtube (Google) 
 </div>
 
 <figure class="video_container">
+  <iframe src="http://www.thinglink.com/card/1394584578202533890" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<figure class="video_container">
   <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
