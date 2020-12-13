@@ -12,8 +12,7 @@ filename: index
   <em> Source: The Wall Street Journal </em>
 </p>
 
-Presented on this site is a report on Video Streaming Services by Group D. Be informed of the roots of this technology; how and why it rose to popularity among the audience; 
-how it runs as a business; its impact to the television, DVD, and traditional film industries; and ultimately, the future awaiting this technology based on the current trends and data. 
+Presented on this site is a report on Video Streaming Services by Group D. Be informed of the roots of this technology; how and why it rose to popularity among the audience; how it runs as a business; its impact to the television, DVD, and traditional film industries; and ultimately, the future awaiting this technology based on the current trends and data. 
 
 *** 
 
