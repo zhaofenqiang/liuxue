@@ -12,6 +12,11 @@ Game changers headed by Netflix, Hulu, Amazon Studios and even Youtube (Google) 
 
 <iframe width="960" height="576" data-original-width="1262" data-original-height="757" src="http://www.thinglink.com/card/1394584578202533890" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
 
+<div class="iframe_container">
+  <iframe src="http://www.thinglink.com/card/1394584578202533890" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</div>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/kevin spacey.jpg">
    <br>
