@@ -14,16 +14,6 @@ Game changers headed by Netflix, Hulu, Amazon Studios and even Youtube (Google) 
 <iframe width="960" height="576" data-original-width="1262" data-original-height="757" src="https://www.thinglink.com/card/1394584578202533890" type="text/html" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" scrolling="no"></iframe><script async="" src="//cdn.thinglink.me/jse/responsive.js"></script>
 </figure>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/kevin spacey.jpg">
-   <br>
-  <em> Source: AZ Quotes </em>
-</p>
-
-<figure class="video_container">
-  <iframe src="https://www.thinglink.com/card/1394584578202533890" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 A growing number of independent content producers and even media giants has progressively reduced dependence on conventional cable providers or broadcast networks for distribution. For consumers, the rise of this subscription-based business model for distributed content offers more freedom of choice, a la carte entertainment, and increased control of programming and scheduling of preferred shows. It dissolves the necessity to purchase bundles of channels in which many consumers simply end up paying for content that they often never watch. With the explosive growth of mobile devices and their ubiquitous usage as an alternative to traditional media screens, online streaming services significantly complement the evolving viewing habits of a new generation of captive consumers. 
 
 Rather than establishing their own industry-wide online delivery system, many major TV networks and film outfits are now forging connections with tech-based Internet distributors like Netflix, Yahoo, Google, Amazon, Facebook, and Apple for media distribution. Netflix in particular has quickly distinguished itself as the non-cable alternative to cable TV. Even as original productions are expensive, Netflix is able to differentiate its own content which attracts new subscribers and also reduces the company's cost for licensing existing content from mainstream outfits. While movie theater chains and DVD rental/sales stores in the pre-Internet era were never involved in actual film production, distributors like Netflix, Amazon, Hulu, and Google have shown financial capabilities to make feature-length movies. 
