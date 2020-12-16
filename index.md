@@ -7,7 +7,7 @@ filename: index
 <div align="center">
 <script type="text/javascript" align="center">
 //Specify the slider's width (in pixels)
-var sliderwidth="805px"
+var sliderwidth="802px"
 //Specify the slider's height
 var sliderheight="180px"
 //Specify the slider's slide speed (larger is faster 1-10)
