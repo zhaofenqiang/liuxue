@@ -23,7 +23,7 @@ Presented on this site is a report on Video Streaming Services by Group D. Be in
 <div align="center">
 <script type="text/javascript" align="center">
 //Specify the slider's width (in pixels)
-var sliderwidth="730px"
+var sliderwidth="800px"
 //Specify the slider's height
 var sliderheight="180px"
 //Specify the slider's slide speed (larger is faster 1-10)
