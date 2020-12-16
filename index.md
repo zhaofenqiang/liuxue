@@ -5,7 +5,7 @@ filename: index
 --- 
 <br>
 <p align="center">
-<script type="text/javascript">
+<script type="text/javascript" align="center">
 //Specify the slider's width (in pixels)
 var sliderwidth="730px"
 //Specify the slider's height
