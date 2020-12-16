@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 <br>
-<p align="center">
+<div align="center">
 <script type="text/javascript" align="center">
 //Specify the slider's width (in pixels)
 var sliderwidth="730px"
@@ -108,7 +108,7 @@ document.write('</td></table>')
 }
 }
 </script> 
-</p>
+</div>
 
 <h1 align="center"> <strike> Netflix and Chill </strike> <br> Netflix, HBO, Hulu, Youtube, Disney+, Apple TV, Amazon Prime Video... and Chill </h1>
 
