@@ -4,14 +4,8 @@ layout: template
 filename: index
 --- 
 <br>
-<h1 align="center"> <strike> Netflix and Chill </strike> <br> Netflix, HBO, Hulu, Youtube, Disney+, Apple TV, Amazon Prime Video... and Chill </h1>
-
+<p align="center">
 <script type="text/javascript">
-
-/***********************************************
-* Conveyor belt slideshow script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
-***********************************************/
-
 //Specify the slider's width (in pixels)
 var sliderwidth="730px"
 //Specify the slider's height
@@ -34,7 +28,6 @@ var imagegap=" "
 
 //Specify pixels gap between each slideshow rotation (use integer):
 var slideshowgap=5
-
 
 ////NO NEED TO EDIT BELOW THIS LINE////////////
 
@@ -114,7 +107,10 @@ write('</ilayer>')
 document.write('</td></table>')
 }
 }
-</script>
+</script> 
+</p>
+
+<h1 align="center"> <strike> Netflix and Chill </strike> <br> Netflix, HBO, Hulu, Youtube, Disney+, Apple TV, Amazon Prime Video... and Chill </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/streaming-scrolling.gif" />
