@@ -1,9 +1,9 @@
 ---
-title: Popularity
+title: Mentors
 layout: template
-filename: popularity
+filename: mentors
 --- 
-<h1 align ="center" > How They Rose to Fame </h1>
+<h1 align ="center" > 导师介绍 </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/streaming services gif.gif">
