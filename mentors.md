@@ -5,35 +5,32 @@ filename: mentors
 --- 
 <h1 align ="center" > 导师介绍 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imcrisanto/mms-142/main/streaming services gif.gif">
-   <br>
-  <em> Animation: Yuliya Kim; Source: Getty Images </em>
-</p>
-
-
-The history of streaming services arguably began with Netflix when they first introduced their streaming service for free because it was included in the company’s physical DVD subscription package back in 2007. 
-
- Nowadays, *Netflix* is a tour de force - the one-stop streaming service that has all the best of old TV series, films, along with chart-topping originals in its arsenal. Netflix with its home base in Los Gatos, California, now has 18 office locations across 14 countries including the Philippines. Each of these with its own original shows and movies exclusive to their location.
-It’s a far cry from what it used to be in 1997: a rent-by-mail DVD service using a pay-per-rental model. In the past, users went to the Netflix website to put an order for films and Netflix would send it via post. Now, users can access Netflix on TV, laptop, phones, and other devices that connect to the internet and stream anything they want without additional cost. 
-
-Netflix has proven the quality of their originals that they started winning prestigious awards usually given to series on cable TV (e.g. *House of Cards*) and shake up the Hollywood giants by winning Academy Awards for their films and documentaries (e.g. *Roma (2019)*, *American Factory (2020)*). 
-
 Globalization along with the continually changing landscape of the Internet made digital streaming services the better alternative for cable or pay-TV. The following are a few more reasons why this disruptive technology rose to popularity:
 
-### Innovative Technology
+### 菜菜
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zhaofenqiang/liuxue/main/_includes/2.jpg">
+   <br>
+  <em> 菜菜 </em>
+</p>
+菜菜2022年7月毕业于Chapel Hill shelter，是一只美国本土短毛狸花猫！
 
-Netflix has been around since 1997 as a rent-by-mail DVD service. However, they only incorporated online streaming in 2007, when higher-bandwidth Internet became more common and affordable. This allowed Netflix to provide both DVD-by-mail and online streaming as options for their subscribers. The following year, Netflix would announce the halt of its DVD rental service as they debuted Watch Now on Mac platforms. They also announced a partnership with the American cable TV Starz, allowing Netflix access to over 2,500 titles at just $30 million (Fritz, Flint, 2011). At the time, there were few real competitions for Netflix because very little actually saw the potential for a streaming service to be profitable. Through its partnerships, Netflix was the first streaming service to actually be accessible on multiple devices such as Xbox 360, Smart TVs, PS3, and Apple devices, to name a few. 
+他的专业是抓小老鼠
 
-Even with thousands of titles accessible on its website, it wasn’t until 2013 with its three high-budget original shows - *House of Cards, Hemlock Grove, and Orange is The New Black* - did Netflix actually successfully rebrand its image as a game-changer for the entertainment industry;  Netflix’s original shows received 31 Primetime Emmy nominations that year. To date, Netflix has garnered 203 awards and 432 nominations. 
+### 菜籽
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zhaofenqiang/liuxue/main/_includes/3.jpg">
+   <br>
+  <em> 菜籽 </em>
+</p>
 
-### Convenience
+### 菜花
 
-When computers and an Internet connection have become more affordable,  it became a commodity for every household to have one. The same is true for cell phones which become ‘smarter’ and more sophisticated with every new release. With only so much time to unwind after a long day at school or at work, we would take any chance we can get to do so. With our gadgets, particularly our smartphones, it has become easier to catch up with our favorite series, anytime we want to. We miss a lot with cable TV, like a daytime soap opera, for example - unless it is recorded but with streaming services, we can catch up at our own pace. 
-
-### It’s worth the cost
-
-For an average working person, it becomes more practical to pay for comforts like a Netflix Subscription than Cable TV. a subscription for streaming services can be used anytime and anywhere in the world as long as there are internet and data connection. Cable TV would probably cost as much, depending on the subscription package, but it still cannot be taken anywhere besides where it is connected. There is also an added incentive that streaming services don’t have commercials and it makes for good, uninterrupted viewing. 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zhaofenqiang/liuxue/main/_includes/1.jpg">
+   <br>
+  <em> 菜花 </em>
+</p>
 
 ### Customized content
 
