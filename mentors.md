@@ -5,7 +5,7 @@ filename: mentors
 --- 
 <h1 align ="center" > 导师介绍 </h1>
 
-Globalization along with the continually changing landscape of the Internet made digital streaming services the better alternative for cable or pay-TV. The following are a few more reasons why this disruptive technology rose to popularity:
+全球化全领域导师团队！
 
 ### 菜菜
 <p align="center">
